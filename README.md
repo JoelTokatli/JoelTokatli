@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @JoelTokatli a front-end javascript oriented developer.
-- 👀 I’m interested in participating in comunnity projects, to learn how to work in grops, sharing, and looking to acquire new knolodge.
-- 🌱 I’m Working on improving my JS and React code.
-- 💞️ I’m looking to collaborate on community projects.
-- 📫 How to reach me? Feel free to write at joeltokatlijob@gmail.com
+# Hi, I'm Joel 👋
 
-<!---
-JoelTokatli/JoelTokatli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer with 5 years building fintech products and marketplaces in TypeScript.
+
+- **Frontend:** Angular (up to v20, RxJS), React, Vue.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express, PostgreSQL, TypeORM
+- **Cloud & DevOps:** AWS (EC2, Lambda, S3), Docker, CI/CD
+- **Applied AI:** Claude Code, AI agents, spec-driven development
+
+### Now
+- Learning applied AI engineering in public: 26 weeks, one project and one video per week.
+- Creator of **IA sin humo**, short videos on AI for software development (in Spanish). The production pipeline is automated with Python and Claude Code.
+
+### How I work
+Tests first, blind review by a second model, and end-to-end checks before anything reaches production.
+
+📫 joeltokatlijob@gmail.com · [LinkedIn](https://www.linkedin.com/in/joeltokatli) · [Portfolio](https://joeltokatli.github.io/portfolio/)
